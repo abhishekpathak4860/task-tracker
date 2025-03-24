@@ -12,3 +12,9 @@ This project follows best practices for React development, ensuring responsivene
 ⚫ **User Authentication**: Login/logout functionality using Redux (mock authentication).  
 ⚫ **Responsive Design**: Fully optimized for mobile, tablet, and desktop views.  
 ⚫ **Error Handling**: Manages and displays errors gracefully.  
+## Technologies Used  
+⚫ **React.js**: Frontend framework  
+⚫ **Redux / Redux Thunk**: State management  
+⚫ **JavaScript (ES6+)**: Core logic  
+⚫ **LocalStorage / SessionStorage**: Data persistence  
+⚫ **Public API (Weather API)**: Data integration  
