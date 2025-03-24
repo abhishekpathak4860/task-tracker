@@ -19,3 +19,4 @@ This project follows best practices for React development, ensuring responsivene
 ⚫ **JavaScript (ES6+)**: Core logic  
 ⚫ **LocalStorage / SessionStorage**: Data persistence  
 ⚫ **Public API (Weather API)**: Data integration  
+<img src="https://github.com/user-attachments/assets/c805cf61-fb5d-49bc-9dc5-b98976b1a41f" width="400" height="300">  
