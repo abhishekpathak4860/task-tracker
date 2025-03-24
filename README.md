@@ -42,5 +42,15 @@ This is the main interface of the To-Do application, where users can add, catego
 
 This section enables users to check real-time weather conditions before planning outdoor tasks. By entering a city name, users can fetch weather data using an API. This feature helps in making informed decisions based on weather conditions.
 
-The implementation uses React for UI, Redux for state management, Axios for API requests, and Redux Thunk for handling asynchronous actions, ensuring smooth and efficient data fetching  
+The implementation uses React for UI, Redux for state management, Axios for API requests, and Redux Thunk for handling asynchronous actions, ensuring smooth and efficient data fetching.  
+
+## Installation and Setup  
+
+### Prerequisites
+
+#### Ensure you have Node.js and npm installed:
+
+node -v && npm -v  
+
+
 
