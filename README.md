@@ -71,9 +71,11 @@ npm run dev
 │── /src  
 │   │── /components       # React Components    
 │   │── /redux            # Redux store and actions  
-│   │── /styles           # CSS and UI styling  
 │   │── App.js            # Main App component  
 │   │── index.js          # Root React entry file  
 │── package.json          # Dependencies & scripts  
 │── README.md             # Project documentation  
 
+## License  
+
+This project is licensed under the MIT License.  
