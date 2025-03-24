@@ -52,5 +52,28 @@ The implementation uses React for UI, Redux for state management, Axios for API 
 
 node -v && npm -v  
 
+## Clone the Repository  
 
+git clone https://github.com/yourusername/advanced-todo-app.git
+cd Todo-App  
+
+## Install Dependencies  
+
+npm install  
+
+##  Start the Development Server  
+
+npm run dev
+
+## Project Structure  
+
+/advanced-todo-app  
+│── /src  
+│   │── /components       # React Components    
+│   │── /redux            # Redux store and actions  
+│   │── /styles           # CSS and UI styling  
+│   │── App.js            # Main App component  
+│   │── index.js          # Root React entry file  
+│── package.json          # Dependencies & scripts  
+│── README.md             # Project documentation  
 
