@@ -35,3 +35,12 @@ This screen represents the login page for the To-Do application. We implemented 
 <img src="https://github.com/user-attachments/assets/016b084d-d4b0-497b-97ae-fde4de281bba" width="100%" > 
 
 This is the main interface of the To-Do application, where users can add, categorize, and manage tasks. Users can input a task, select its priority and type, and add it to the list. The Redux state management handles task data, ensuring smooth updates. A Logout button is available to end the session. The UI is built using React and CSS for a clean and responsive experience.  
+
+## Weather Data Integration 
+
+<img src="https://github.com/user-attachments/assets/cd9548f9-818a-42e3-99be-7e8932a5e3bb" width="100%" >  
+
+This section enables users to check real-time weather conditions before planning outdoor tasks. By entering a city name, users can fetch weather data using an API. This feature helps in making informed decisions based on weather conditions.
+
+The implementation uses React for UI, Redux for state management, Axios for API requests, and Redux Thunk for handling asynchronous actions, ensuring smooth and efficient data fetching  
+
