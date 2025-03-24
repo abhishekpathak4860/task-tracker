@@ -54,7 +54,7 @@ node -v && npm -v
 
 ## Clone the Repository  
 
-git clone https://github.com/yourusername/advanced-todo-app.git
+git clone https://github.com/yourusername/advanced-todo-app.git  
 cd Todo-App  
 
 ## Install Dependencies  
