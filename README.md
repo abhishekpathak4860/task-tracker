@@ -1,4 +1,4 @@
-![blue vanda](https://github.com/user-attachments/assets/a306dde9-d9ef-43c2-b0c5-526c1ab7b108)
+
 # task-tracker
 ## Overview
 This is an advanced To-Do application built using React with Redux for state management and API integration to enhance functionality. The app allows users to add, delete, and prioritize tasks while also integrating external API data (such as weather data) for relevant task information.
