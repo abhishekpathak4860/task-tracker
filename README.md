@@ -1,4 +1,3 @@
-
 # task-tracker
 ## Overview
 This is an advanced To-Do application built using React with Redux for state management and API integration to enhance functionality. The app allows users to add, delete, and prioritize tasks while also integrating external API data (such as weather data) for relevant task information.
@@ -20,6 +19,6 @@ This project follows best practices for React development, ensuring responsivene
 ⚫ **LocalStorage / SessionStorage**: Data persistence  
 ⚫ **Public API (Weather API)**: Data integration  
   ## Login Authentication (Mock)  
-<img src="https://github.com/user-attachments/assets/f31dfdd4-67e7-4976-9f3e-5ee4b07b7fe9" width="100%" >
+<img src="https://github.com/user-attachments/assets/f31dfdd4-67e7-4976-9f3e-5ee4b07b7fe9" width="100%" > 
 This screen represents the login page for the To-Do application. We implemented Redux for state management, ensuring secure authentication. The authentication process is mocked, meaning it simulates login without a backend. The UI is designed with React and CSS, featuring a simple and clean layout.    
 ## Main Task Management Screen
