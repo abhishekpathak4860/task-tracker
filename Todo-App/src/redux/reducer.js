@@ -1,7 +1,7 @@
 import { ADD_TASK, DELETE_TASK } from "./actions";
 
 const initialState = {
-  tasks: JSON.parse(localStorage.getItem("tasks") || "[]"), // ✅ Fixed: Ensures it's always an array
+  tasks: JSON.parse(localStorage.getItem("tasks") || "[]"), 
 };
 
 const taskReducer = (state = initialState, action) => {
